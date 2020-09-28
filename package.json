@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Me",
+  "author": "Abimm UwU",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1"
