@@ -8,6 +8,6 @@ Link : https://nodejs.org/en/download/
 
 ```npm install discord.js --save```
 
-Males bikin markdown tenpor 
+***MALES BIKIN MARKDOWN ANJIM***
 
 © Copyright 2020 by Abimm - Discord : Abimm#0001
