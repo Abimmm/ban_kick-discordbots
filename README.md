@@ -1,4 +1,4 @@
-# ban_kick-discordbots
+# ban_kick-discordbots-commands
 
 
 Males bikin markdown tenpor 
